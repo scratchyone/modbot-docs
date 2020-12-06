@@ -7,7 +7,7 @@ List of commands that need documentation
 ### All main bot commands
 
 - !pin <MESSAGE>
-- !eval <CODE>
+- !eval
 - !say [CHANNEL] <keep/remove> <TEXT>
 - !setanonchannel <enabled/disabled> [CHANNEL]
 - !listanonchannels
@@ -33,7 +33,7 @@ List of commands that need documentation
 - !usercard <USER>
 - !note <USER> <REASON>
 - !warn <USER> <REASON>
-- !forgive <ID>
+- !forgive
 
 ## Admin
 
