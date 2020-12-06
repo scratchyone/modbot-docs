@@ -1,4 +1,4 @@
-# Slowmode Command
+# Custom Slowmode
 
 ## Enable Slowmode
 

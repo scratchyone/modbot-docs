@@ -1,4 +1,4 @@
-# Mute Commands
+# Muting
 
 ## Setup Mute Role
 

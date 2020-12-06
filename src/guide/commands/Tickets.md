@@ -1,4 +1,4 @@
-# Ticket Commands
+# Tickets
 
 ## Create a Ticket
 
