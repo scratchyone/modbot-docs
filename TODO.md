@@ -64,12 +64,6 @@ List of commands that need documentation
 - !starboard <enable/disable/configure/fixperms>
 - !star <random>
 
-## Tickets
-
-### Commands for creating tickets
-
-- !ticket create <MODERATOR_ROLE> <USER> / delete
-
 ## Utilities
 
 ### Helpful utility commands
