@@ -14,7 +14,7 @@ You can fix the permissions of the currently configured mute role by running `m:
 
 ## Mute User
 
-You can mute a user by running `m: mute <USER> [DURATION]`. `[DURATION]` cannot have any spaces in it.
+You can mute a user by running `m: mute <USER> [DURATION]`. The duration cannot have any spaces in it.
 
 ### Examples
 
