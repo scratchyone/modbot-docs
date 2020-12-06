@@ -1,0 +1,19 @@
+{
+  "name": "modbot_docs",
+  "version": "0.0.1",
+  "description": "Documentation for ModBot",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/scratchyone/modbot_docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
