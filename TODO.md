@@ -35,13 +35,6 @@ List of commands that need documentation
 - !warn <USER> <REASON>
 - !forgive
 
-## Admin
-
-### Commands for bot admins
-
-- !announce
-- !admin
-
 ## Alert Channel
 
 ### Commands to configure your alert channel
