@@ -7,7 +7,6 @@ List of commands that need documentation
 ### All main bot commands
 
 - !pin <MESSAGE>
-- !eval
 - !say [CHANNEL] <keep/remove> <TEXT>
 - !setanonchannel <enabled/disabled> [CHANNEL]
 - !listanonchannels
