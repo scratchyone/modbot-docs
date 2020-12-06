@@ -46,7 +46,7 @@ module.exports = {
         {
           title: 'Commands',
           collapsable: false,
-          children: ['commands/Mute.md'],
+          children: ['commands/Mute.md', 'commands/Slowmode.md'],
         },
       ],
     },
